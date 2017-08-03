@@ -1,0 +1,3 @@
+id_plateform_homepage:
+    path:     /
+    defaults: { _controller: IDPlateformBundle:Default:index }

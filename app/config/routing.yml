@@ -1,0 +1,7 @@
+id_plateform:
+    resource: "@IDPlateformBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
